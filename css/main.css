@@ -434,6 +434,10 @@ h5, h6          { font-weight: bolder }
     background-position: 50% 50%;
 }
 
+.image2{
+background: url('../img/1.jpg') no-repeat !important;
+}
+
 .work_nav{
     display: block;
     width: 100%;
