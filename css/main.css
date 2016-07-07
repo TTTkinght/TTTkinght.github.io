@@ -1,8 +1,4 @@
-/*
 
-    Template Author : pixelhint.com
-    Author Email    : contact@pixelhint.com
-    Template Name   : Magnetic
     
     
     *****************************************
@@ -152,7 +148,7 @@ h5, h6          { font-weight: bolder }
 
     header nav ul li{
         display: block;
-        margin-bottom: 30px;
+        margin-bottom: 50px;
     }
 
     header nav ul li a{
@@ -188,8 +184,8 @@ h5, h6          { font-weight: bolder }
 
     header ul.social li a{
         display: block;
-        width: 30px;
-        height: 30px;
+        width: 50px;
+        height: 50px;
         background: url('../img/sm.png') no-repeat;
         background-position: 0 0;
     }
@@ -199,38 +195,28 @@ h5, h6          { font-weight: bolder }
         background: url('../img/sm_hover.png') no-repeat;
     }
 
-
-
-    header ul.social li a.fb,
-    header ul.social li a.fb:hover{
+    header ul.social li a.weibo,
+    header ul.social li a.weibo:hover{
         background-position: 0 0;
     }
 
 
-    header ul.social li a.google,
-    header ul.social li a.google:hover{
-        background-position: -31px 0;
+    header ul.social li a.zhanku,
+    header ul.social li a.zhanku:hover{
+        background-position: -50px 0;
     }
 
-    header ul.social li a.behance,
-    header ul.social li a.behance:hover{
-        background-position: -62px 0;
-    }
-
-    header ul.social li a.twitter,
-    header ul.social li a.twitter:hover{
-        background-position: -93px 0;
-    }
-
-    header ul.social li a.dribble,
-    header ul.social li a.dribble:hover{
-        background-position: -124px 0;
+    header ul.social li a.uichina,
+    header ul.social li a.uichina:hover{
+        background-position: -100px 0;
     }
 
     header ul.social li a.rss,
     header ul.social li a.rss:hover{
-        background-position: -155px 0;
+        background-position: -150px 0;
     }
+
+
 
     header .rights p{
         color: #454545;
